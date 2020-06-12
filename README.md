@@ -5,7 +5,7 @@ alfred-mictoggle is an Alfred Workflow 2.0 to mute/unmute your microphone throug
 [Alfred App](http://www.alfredapp.com/#download)
 
 ## Installation
-1. [Download]()
+1. [Download](https://github.com/drookn/alfred-mictoggle/releases/tag/v0.0.1)
 2. Double-click to import into Alfred
 3. Review the workflow to add your custom hotkeys
 
